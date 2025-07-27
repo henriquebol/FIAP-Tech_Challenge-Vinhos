@@ -1,6 +1,4 @@
-Price,Shanghai Composite (SSE),Hang Seng (Hong Kong),Nikkei 225 (Japão),S&P 500 Futuro,Nasdaq Futuro,Petróleo Brent
-Ticker,000001.SS,^HSI,^N225,ES=F,NQ=F,BZ=F
-Date,,,,,,
+date,Shanghai Composite (SSE),Hang Seng (Hong Kong),Nikkei 225 (Japão),S&P 500 Futuro,Nasdaq Futuro,Petróleo Brent
 2005-07-27,1089.9090576171875,14801.8603515625,11835.080078125,1239.75,1617.5,
 2005-07-28,1086.5479736328125,14813.3203125,11858.3095703125,1247.0,1626.5,
 2005-07-29,1083.032958984375,14880.98046875,11899.599609375,1236.75,1611.5,
